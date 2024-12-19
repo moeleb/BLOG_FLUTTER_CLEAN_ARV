@@ -1,0 +1,3 @@
+const project_url = "https://sxmvgnlmzyrfjstynkpp.supabase.co";
+const api_key =
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN4bXZnbmxtenlyZmpzdHlua3BwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzQ2MTM4MzEsImV4cCI6MjA1MDE4OTgzMX0.v0lXK2ATpoJ36O8CX-7Oxwc92LCyE1hjalk13_A7J4A";
